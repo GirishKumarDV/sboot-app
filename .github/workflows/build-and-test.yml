@@ -31,7 +31,6 @@ jobs:
 
     env:
       NAME: Planet
-
     steps:
 
       - name: Step inside test job
